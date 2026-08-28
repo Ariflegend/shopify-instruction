@@ -10,7 +10,7 @@ npm install -g @shopify/cli @shopify/theme
 
 #### Clone the Repository:
 ```bash
-git clone https://github.com/PurpleFire-Growth/{repository_name}.git
+git clone https://github.com/algofy-development/{repository_name}.git
 ```
 
 #### Ensure Ruby is installed:
