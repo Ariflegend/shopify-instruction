@@ -2,7 +2,7 @@
 
 ## Summary  
 Brief summary of the feature, fix, or improvement being implemented. Link to relevant task or ticket:  
-- [Asana](link)
+- [clickup](link)
 
 ---
 
